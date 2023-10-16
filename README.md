@@ -15,10 +15,7 @@ Skills: PYTHON | DANGO | DJANGO-REST_FRAMEWORK | JS | HTML | CSS | BOOTSTRAP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dolan-incrementsinc&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dolan-incrementsinc)  
-
 ![GitHub metrics](https://metrics.lecoq.io/dolan-incrementsinc)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=dolan-incrementsinc)  
 
-![Profile views](https://gpvc.arturio.dev/dolan-incrementsinc)  
